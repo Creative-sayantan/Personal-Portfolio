@@ -1,2 +1,2 @@
 # Personal-Portfolio
-This is my personal portfolio , made this using HTML, CSS and basci JS for enhancing my skills.
+This is my Personal Portfolio , Made this using HTML, CSS and basic JS for Enhancing My Skills.
