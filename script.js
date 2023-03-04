@@ -24,14 +24,14 @@ $(document).ready(function(){
         $('.menu-btn i').toggleClass("active");
     });
     var typed = new Typed(".typing", {
-        strings: ["Developer"," Upcoming Data Analyst","Photographer"],
+        strings: ["Developer"," Aspiring Data Scientist ","And a Frontend Web Devoloper","Photographer","Musician"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
     });
 
     var typed = new Typed(".typing-2", {
-        strings: ["Developer"," Upcoming Data Analyst","Photographer"],
+        strings: ["Developer"," Aspiring Data Scientist ","Frontend Web Devoloper"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
